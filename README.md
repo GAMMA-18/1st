@@ -1,4 +1,3 @@
-# 1st
+# 1st(MOVIE RECOMMENDATION SYSTEM)
 this is my first repository
-malaya
 
